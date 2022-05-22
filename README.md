@@ -39,3 +39,6 @@ About me:
 ### My Streak:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Smritiojha2&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### Top Languages used:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smritiojha2)](https://github.com/anuraghazra/github-readme-stats)
+
