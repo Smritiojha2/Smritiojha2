@@ -12,7 +12,6 @@ About me:
 - :mortar_board: Currently persuing my Masters in Big Data Analytics from St. Xavier's College, Mumbai
 - 🔭 I’m currently working on Sentiment Analysis
 - 🌱 I’m currently learning Machine Learning and Deep Learning
-- :computer: I am looking for internship in Data Science domain
 
 ### Languages and Skills:
 
