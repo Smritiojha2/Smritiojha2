@@ -1,17 +1,5 @@
 ### Hi there, I am Smriti
-### I am a learning Data Science Enthusiast
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=Smritiojha2" style="flat-square" color="blue" alt=""/>
-</div>
-
-About me:
-- :woman_student: I am a Statistics graduate from Delhi university
-- :mortar_board: Currently persuing my Masters in Big Data Analytics from St. Xavier's College, Mumbai
-- 🔭 I’m currently working on Sentiment Analysis
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+### I am a Data Science Enthusiast
 
 ### Languages and Skills:
 
